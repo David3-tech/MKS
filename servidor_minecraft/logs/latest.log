@@ -470,3 +470,13 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:28:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
 [29Mar2025 19:28:32.310] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
 [29Mar2025 19:30:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Spooky Scary Skeleton]
+[29Mar2025 19:32:19.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Ice Bucket Challenge]
+[29Mar2025 19:35:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Set own game mode to Creative Mode]
+[29Mar2025 19:36:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Weather Controller]
+[29Mar2025 19:42:22.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was killed
+[29Mar2025 19:42:22.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Killed 247 entities]
+[29Mar2025 19:42:39.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David was killed
+[29Mar2025 19:42:40.493] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:42:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Set own game mode to Survival Mode]
+[29Mar2025 19:42:48.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2017.500000, 214.500000, 91.500000]
+[29Mar2025 19:45:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Cover Me with Diamonds]

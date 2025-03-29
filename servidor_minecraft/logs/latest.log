@@ -482,3 +482,5 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:45:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Cover Me with Diamonds]
 [29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[29Mar2025 20:24:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 20:24:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asda<--[HERE]

@@ -3176,3 +3176,14 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 18:25:49.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 18:25:49.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 18:28:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has reached the goal [Fighting Nightmares]
+[29Mar2025 18:30:49.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 18:30:49.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 18:32:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 18:32:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASDASD<--[HERE]
+[29Mar2025 18:32:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 18:32:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASD<--[HERE]
+[29Mar2025 18:32:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 18:32:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AS<--[HERE]
+[29Mar2025 18:33:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Good Demoman]
+[29Mar2025 18:35:49.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 18:35:49.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

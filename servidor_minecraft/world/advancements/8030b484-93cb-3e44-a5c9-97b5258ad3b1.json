@@ -3107,5 +3107,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-29 18:28:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-29 18:33:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -45,11 +45,13 @@
     "criteria": {
       "minecraft:beach": "2025-03-29 02:48:39 +0000",
       "minecraft:mangrove_swamp": "2025-03-29 02:47:35 +0000",
+      "minecraft:sparse_jungle": "2025-03-29 03:49:36 +0000",
       "minecraft:river": "2025-03-29 02:29:24 +0000",
       "minecraft:lukewarm_ocean": "2025-03-29 03:32:30 +0000",
       "minecraft:forest": "2025-03-29 02:10:32 +0000",
       "minecraft:lush_caves": "2025-03-29 02:49:18 +0000",
-      "minecraft:jungle": "2025-03-29 02:47:25 +0000"
+      "minecraft:jungle": "2025-03-29 02:47:25 +0000",
+      "minecraft:savanna": "2025-03-29 03:45:44 +0000"
     },
     "done": false
   },
@@ -1841,6 +1843,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-29 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-29 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-29 03:33:37 +0000"
@@ -1849,13 +1875,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
@@ -1867,13 +1893,19 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
@@ -1883,9 +1915,33 @@
     },
     "done": true
   },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-03-29 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-29 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-29 03:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-29 03:45:04 +0000"
     },
     "done": true
   },
@@ -1897,9 +1953,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
@@ -1913,23 +1975,53 @@
     },
     "done": true
   },
+  "adorn:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-29 03:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-29 03:46:27 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/flute": {
     "criteria": {
@@ -1937,17 +2029,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-03-29 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-29 03:44:57 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-29 03:46:27 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
@@ -1955,11 +2101,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-29 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-29 03:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-29 03:44:57 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
@@ -1969,7 +2139,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 03:40:44 +0000"
+      "log_spam_fixer": "2025-03-29 03:50:47 +0000"
     },
     "done": false
   },
@@ -2000,6 +2170,18 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-03-29 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-29 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-29 03:44:45 +0000"
     },
     "done": true
   },

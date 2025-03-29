@@ -336,3 +336,7 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 03:43:33.044] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=997, y=71, z=53}
 [29Mar2025 03:43:36.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
 [29Mar2025 03:44:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Sweet Dreams]
+[29Mar2025 03:46:05.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 0.21473398820990042,3.203264399331289,-9.520308025436918
+[29Mar2025 03:53:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was shot by Skeleton
+[29Mar2025 03:53:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David was doomed to fall by Skeleton
+[29Mar2025 03:53:20.705] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

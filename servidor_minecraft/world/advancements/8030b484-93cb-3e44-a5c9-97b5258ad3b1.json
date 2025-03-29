@@ -3107,15 +3107,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-03-29 18:45:18 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_table": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_shelf": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-03-29 18:28:53 +0000"
     },
     "done": true
   },
+  "adorn:recipes/jungle_drawer": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_step": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-03-29 18:33:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_chair": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_platform": {
+    "criteria": {
+      "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-29 18:43:09 +0000"
     },
     "done": true
   },

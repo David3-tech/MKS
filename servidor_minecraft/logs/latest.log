@@ -313,3 +313,4 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 02:14:36.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:53133] logged in with entity id 798 at (-25.784690682553844, 68.0, -18.35402810634615)
 [29Mar2025 02:14:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
 [29Mar2025 02:14:36.933] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[29Mar2025 02:32:36.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -2.5311878527906444,-1.1661092609382138,-9.699267959437094

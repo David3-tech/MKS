@@ -3236,3 +3236,23 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 02:14:36.933] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
 [29Mar2025 02:15:02.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 02:15:02.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:20:02.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:20:02.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:25:02.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:25:02.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:29:22.296] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-492 | 44 | 4).
+[29Mar2025 02:29:22.298] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(5) Nodes and 4(0) Rooms
+[29Mar2025 02:29:22.301] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Mar2025 02:29:22.302] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(4) Nodes and 4(0) Rooms
+[29Mar2025 02:29:22.302] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Mar2025 02:29:22.302] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms
+[29Mar2025 02:30:02.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:30:02.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 02:32:36.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -2.5311878527906444,-1.1661092609382138,-9.699267959437094
+[29Mar2025 02:35:02.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 02:35:02.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

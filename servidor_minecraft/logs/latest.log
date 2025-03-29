@@ -1,22 +1,23 @@
-[29Mar2025 02:09:26.280] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Mar2025 02:09:26.284] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[29Mar2025 02:09:26.843] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Mar2025 02:09:26.891] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MKS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Mar2025 02:09:27.240] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 02:09:27.242] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 02:09:27.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 02:09:27.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Mar2025 02:09:27.464] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29Mar2025 02:09:27.465] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[29Mar2025 02:09:29.945] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Mar2025 02:09:30.138] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[29Mar2025 02:09:30.141] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Mar2025 02:09:30.152] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 02:09:30.338] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 02:09:30.349] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 02:09:30.370] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
+[29Mar2025 03:25:08.108] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Mar2025 03:25:08.111] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[29Mar2025 03:25:09.145] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Mar2025 03:25:09.197] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MKS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Mar2025 03:25:09.519] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 03:25:09.521] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 03:25:09.522] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 03:25:09.523] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MKS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Mar2025 03:25:09.714] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Mar2025 03:25:09.715] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[29Mar2025 03:25:11.762] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Mar2025 03:25:11.914] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[29Mar2025 03:25:11.916] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Mar2025 03:25:11.926] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 03:25:12.077] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 03:25:12.091] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 03:25:12.116] [main/INFO] [Puzzles Lib/]: Loading 45 mods:
 	- adorn 5.0.1+1.20.1
 	- ambientsounds 6.1.6
+	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
 	- born_in_chaos_v1 1.6.3
 	- cataclysm 1.99.5
@@ -42,6 +43,7 @@
 	- lionfishapi 1.9
 	- minecraft 1.20.1
 	- moonlight 1.20-2.12.9
+		\-- mixinextras 0.3.6
 	- morebows 1.0.13
 	- naturalist 4.0.3
 	- playerrevive 2.0.26
@@ -52,76 +54,98 @@
 	- sophisticatedbackpacks 3.20.5.1044
 	- sophisticatedcore 0.6.22.611
 	- supplementaries 1.20-2.8.17
-		|-- mixinextras 0.3.6
 		\-- mixinsquared 0.1.1
 	- terralith 2.5.4
 	- tlskincape 1.32
 	- toolbelt 1.20.01
 	- visuality 2.0.2
-[29Mar2025 02:09:31.777] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[29Mar2025 02:09:31.781] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[29Mar2025 02:09:31.966] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[29Mar2025 02:09:31.967] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[29Mar2025 02:09:31.967] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[29Mar2025 02:09:31.969] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[29Mar2025 02:09:31.970] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[29Mar2025 02:09:31.971] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[29Mar2025 02:09:31.972] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[29Mar2025 02:09:31.973] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[29Mar2025 02:09:32.498] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[29Mar2025 02:09:38.462] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[29Mar2025 02:09:38.540] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Mar2025 02:09:38.544] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Mar2025 02:09:39.223] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[29Mar2025 02:09:40.059] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[29Mar2025 02:09:40.272] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Mar2025 02:09:40.288] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
-[29Mar2025 02:09:40.397] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Mar2025 02:09:42.544] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
-[29Mar2025 02:09:43.177] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[29Mar2025 02:09:43.253] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[29Mar2025 02:09:43.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Mar2025 02:09:43.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[29Mar2025 02:09:43.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Mar2025 02:09:43.591] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 14, 15, 1] ms
-[29Mar2025 02:09:43.635] [main/INFO] [Moonlight/]: Initialized color sets in 38ms
-[29Mar2025 02:09:43.766] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[29Mar2025 02:09:43.780] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[29Mar2025 02:09:43.795] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[29Mar2025 02:09:43.800] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[29Mar2025 02:09:43.803] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[29Mar2025 02:09:43.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[29Mar2025 02:09:43.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[29Mar2025 02:09:43.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
-[29Mar2025 02:09:43.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[29Mar2025 02:09:43.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.9 Target: null
-[29Mar2025 02:09:43.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[29Mar2025 02:09:43.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[29Mar2025 02:09:43.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[29Mar2025 02:09:43.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Mar2025 02:09:43.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[29Mar2025 02:09:44.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.23
-[29Mar2025 02:09:44.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[29Mar2025 02:09:44.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.24 Target: 3.4.26
-[29Mar2025 02:09:44.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Mar2025 02:09:44.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.29
-[29Mar2025 02:09:46.034] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Mar2025 02:09:47.540] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MKS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23177!/assets/.mcassetsroot' uses unexpected schema
-[29Mar2025 02:09:47.540] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MKS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23177!/data/.mcassetsroot' uses unexpected schema
-[29Mar2025 02:09:47.679] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 51 ms
-[29Mar2025 02:09:50.721] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+	- xaerominimap 24.2.0
+[29Mar2025 03:25:13.332] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[29Mar2025 03:25:13.332] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[29Mar2025 03:25:13.612] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[29Mar2025 03:25:13.614] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[29Mar2025 03:25:13.614] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[29Mar2025 03:25:13.615] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[29Mar2025 03:25:13.616] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[29Mar2025 03:25:13.616] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[29Mar2025 03:25:13.618] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[29Mar2025 03:25:13.618] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[29Mar2025 03:25:14.169] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[29Mar2025 03:25:19.637] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[29Mar2025 03:25:19.715] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Mar2025 03:25:19.720] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Mar2025 03:25:20.306] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[29Mar2025 03:25:21.084] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[29Mar2025 03:25:21.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Mar2025 03:25:21.240] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MKS/servidor_minecraft/config/appleskin-client.toml is not correct. Correcting
+[29Mar2025 03:25:21.244] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[29Mar2025 03:25:21.244] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltip was corrected from null to its default, true. 
+[29Mar2025 03:25:21.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltipAlways was corrected from null to its default, true. 
+[29Mar2025 03:25:21.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showSaturationHudOverlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlayWhenOffhand was corrected from null to its default, true. 
+[29Mar2025 03:25:21.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodExhaustionHudUnderlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodStatsInDebugOverlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodHealthHudOverlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showVanillaAnimationsOverlay was corrected from null to its default, true. 
+[29Mar2025 03:25:21.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.maxHudOverlayFlashAlpha was corrected from null to its default, 0.65. 
+[29Mar2025 03:25:21.254] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[29Mar2025 03:25:21.342] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Mar2025 03:25:23.273] [main/INFO] [Moonlight/]: Initialized block sets in 10ms
+[29Mar2025 03:25:23.815] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[29Mar2025 03:25:23.884] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[29Mar2025 03:25:23.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Mar2025 03:25:24.151] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 14, 13, 2] ms
+[29Mar2025 03:25:24.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[29Mar2025 03:25:24.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2025 03:25:24.186] [main/INFO] [Moonlight/]: Initialized color sets in 29ms
+[29Mar2025 03:25:24.204] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[29Mar2025 03:25:24.205] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[29Mar2025 03:25:24.273] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[29Mar2025 03:25:24.287] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[29Mar2025 03:25:24.301] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[29Mar2025 03:25:24.306] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[29Mar2025 03:25:24.308] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[29Mar2025 03:25:24.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[29Mar2025 03:25:24.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[29Mar2025 03:25:24.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
+[29Mar2025 03:25:24.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[29Mar2025 03:25:24.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.9 Target: null
+[29Mar2025 03:25:24.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[29Mar2025 03:25:24.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[29Mar2025 03:25:24.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[29Mar2025 03:25:24.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Mar2025 03:25:24.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[29Mar2025 03:25:24.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.17 Target: 1.20.1-1.0.23
+[29Mar2025 03:25:24.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[29Mar2025 03:25:24.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.24 Target: 3.4.26
+[29Mar2025 03:25:24.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Mar2025 03:25:25.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.29
+[29Mar2025 03:25:26.881] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2025 03:25:27.059] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_minimap Expected: 94 Got: 119
+[29Mar2025 03:25:27.059] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_minimap_harmful Expected: 95 Got: 120
+[29Mar2025 03:25:27.059] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_entity_radar Expected: 96 Got: 121
+[29Mar2025 03:25:27.060] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_entity_radar_harmful Expected: 97 Got: 122
+[29Mar2025 03:25:27.060] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_waypoints Expected: 98 Got: 123
+[29Mar2025 03:25:27.060] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_waypoints_harmful Expected: 99 Got: 124
+[29Mar2025 03:25:27.060] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_cave_maps Expected: 100 Got: 125
+[29Mar2025 03:25:27.060] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: xaerominimap:no_cave_maps_harmful Expected: 101 Got: 126
+[29Mar2025 03:25:28.395] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MKS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/assets/.mcassetsroot' uses unexpected schema
+[29Mar2025 03:25:28.395] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MKS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23181!/data/.mcassetsroot' uses unexpected schema
+[29Mar2025 03:25:28.537] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 54 ms
+[29Mar2025 03:25:31.410] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
-	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -129,10 +153,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
@@ -140,20 +164,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -161,29 +185,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[29Mar2025 02:09:52.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[29Mar2025 02:09:52.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[29Mar2025 02:09:52.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.776] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[29Mar2025 02:09:52.782] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.784] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[29Mar2025 03:25:33.542] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[29Mar2025 03:25:33.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.603] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[29Mar2025 03:25:33.655] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.686] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.690] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[29Mar2025 03:25:33.690] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.691] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -199,20 +223,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Mar2025 02:09:52.789] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[29Mar2025 03:25:33.703] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -228,27 +252,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Mar2025 02:09:52.791] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.793] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map
+[29Mar2025 03:25:33.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.710] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:slice_map
 com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:68) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:55) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:54) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:41) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:209) ~[forge-1.20.1-47.3.7-universal.jar%23182!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:68) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.conditions.TagEmptyCondition$Serializer.read(TagEmptyCondition.java:55) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:54) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.conditions.NotCondition$Serializer.read(NotCondition.java:41) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:209) ~[forge-1.20.1-47.3.7-universal.jar%23186!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23181!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -264,60 +288,51 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Mar2025 02:09:52.800] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[29Mar2025 02:09:52.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[29Mar2025 02:09:52.983] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2591 advancements
-[29Mar2025 02:09:52.986] [main/INFO] [Dungeon Crawl/]: Loading data...
-[29Mar2025 02:09:53.315] [main/INFO] [Dungeon Crawl/]: Done.
-[29Mar2025 02:09:53.340] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[29Mar2025 02:09:53.346] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[29Mar2025 02:09:53.352] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[29Mar2025 02:09:53.385] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[29Mar2025 02:09:54.510] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[29Mar2025 02:09:54.527] [main/INFO] [Supplementaries/]: Finished additional setup in 11 ms
-[29Mar2025 02:09:54.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Mar2025 02:09:54.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Mar2025 02:09:54.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Mar2025 02:09:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Mar2025 02:09:54.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Mar2025 02:09:54.881] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Mar2025 02:09:54.969] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Mar2025 02:09:54.969] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Mar2025 02:09:54.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Mar2025 02:09:54.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Mar2025 02:09:55.004] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[29Mar2025 02:09:55.006] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[29Mar2025 02:09:55.010] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[29Mar2025 02:09:55.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Mar2025 02:09:58.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Mar2025 02:10:01.513] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.517] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.521] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 02:10:01.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[29Mar2025 02:10:02.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Mar2025 02:10:02.603] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4131 ms
-[29Mar2025 02:10:02.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.620s)! For help, type "help"
-[29Mar2025 02:10:02.640] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Mar2025 02:10:31.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:46299] logged in with entity id 110 at (-23.5, 79.0, -22.5)
-[29Mar2025 02:10:31.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
-[29Mar2025 02:10:31.900] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
-[29Mar2025 02:12:46.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Stone Age]
-[29Mar2025 02:13:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Getting an Upgrade]
-[29Mar2025 02:14:27.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Disconnected
-[29Mar2025 02:14:27.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
-[29Mar2025 02:14:36.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:53133] logged in with entity id 798 at (-25.784690682553844, 68.0, -18.35402810634615)
-[29Mar2025 02:14:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
-[29Mar2025 02:14:36.933] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
-[29Mar2025 02:32:36.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -2.5311878527906444,-1.1661092609382138,-9.699267959437094
-[29Mar2025 02:40:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Acquire Hardware]
-[29Mar2025 02:46:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Monster Hunter]
-[29Mar2025 02:46:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Not Today, Thank You]
-[29Mar2025 02:51:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [The Cutest Predator]
-[29Mar2025 02:51:54.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Slime
-[29Mar2025 02:52:15.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David was slain by Slime
-[29Mar2025 02:52:17.525] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 03:25:33.723] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[29Mar2025 03:25:33.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[29Mar2025 03:25:33.907] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2591 advancements
+[29Mar2025 03:25:33.910] [main/INFO] [Dungeon Crawl/]: Loading data...
+[29Mar2025 03:25:34.233] [main/INFO] [Dungeon Crawl/]: Done.
+[29Mar2025 03:25:34.249] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[29Mar2025 03:25:34.266] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[29Mar2025 03:25:34.271] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[29Mar2025 03:25:34.277] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[29Mar2025 03:25:35.346] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[29Mar2025 03:25:35.363] [main/INFO] [Supplementaries/]: Finished additional setup in 11 ms
+[29Mar2025 03:25:35.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Mar2025 03:25:35.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2025 03:25:35.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2025 03:25:35.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2025 03:25:35.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2025 03:25:35.773] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Mar2025 03:25:35.858] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Mar2025 03:25:35.859] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Mar2025 03:25:35.859] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Mar2025 03:25:35.859] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Mar2025 03:25:35.890] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[29Mar2025 03:25:35.891] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[29Mar2025 03:25:35.892] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[29Mar2025 03:25:36.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2025 03:25:39.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2025 03:25:43.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.631] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.631] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.633] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.634] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:43.656] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 03:25:44.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[29Mar2025 03:25:44.656] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5501 ms
+[29Mar2025 03:25:44.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.783s)! For help, type "help"
+[29Mar2025 03:25:44.696] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Mar2025 03:29:54.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:49065] logged in with entity id 100 at (393.4704329568679, 27.0, -177.66831727512962)
+[29Mar2025 03:29:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
+[29Mar2025 03:29:54.867] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[29Mar2025 03:33:28.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Dark Metallurgy]
+[29Mar2025 03:43:33.044] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=997, y=71, z=53}
+[29Mar2025 03:43:36.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[29Mar2025 03:44:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Sweet Dreams]

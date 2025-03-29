@@ -427,3 +427,18 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:04:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Hoglin
 [29Mar2025 19:05:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David fell from a high place
 [29Mar2025 19:05:13.594] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:11:21.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -0.23621494094186346,-11.558875218516562,0.6688477915929099
+[29Mar2025 19:11:24.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David was kicked for floating too long!
+[29Mar2025 19:11:24.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Disconnected
+[29Mar2025 19:11:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
+[29Mar2025 19:11:24.087] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Mar2025 19:11:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 19:11:49.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[29Mar2025 19:12:01.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:41555] logged in with entity id 12023 at (2025.2922353420101, 134.07740557964777, 87.53821027516122)
+[29Mar2025 19:12:01.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
+[29Mar2025 19:12:01.622] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[29Mar2025 19:12:07.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David fell from a high place
+[29Mar2025 19:12:19.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David fell from a high place
+[29Mar2025 19:12:21.183] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:12:58.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Crops of the Wild]
+[29Mar2025 19:20:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Hoglin

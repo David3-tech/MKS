@@ -3110,21 +3110,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "has_fried_egg": "2025-03-29 18:45:18 +0000"
+      "fighting_nightmares_0": "2025-03-29 18:28:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-29 18:33:19 +0000"
     },
     "done": true
   },
   "adorn:recipes/jungle_table": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
     },
     "done": true
   },
@@ -3140,21 +3140,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-03-29 18:28:53 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/jungle_drawer": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-03-29 19:01:33 +0000"
     },
     "done": true
   },
@@ -3164,27 +3152,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/jungle_step": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-03-29 18:33:19 +0000"
     },
     "done": true
   },
@@ -3218,11 +3188,131 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-03-29 18:45:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-29 19:01:33 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-03-29 19:01:55 +0000"
     },
     "done": false
+  },
+  "adorn:recipes/birch_shelf": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_step": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_table": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_chair": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_drawer": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_platform": {
+    "criteria": {
+      "has_slab": "2025-03-29 19:11:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-03-29 19:12:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -3810,3 +3810,9 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:55:49.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 20:00:49.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 20:00:49.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[29Mar2025 20:05:49.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:05:49.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:10:49.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:10:49.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -480,3 +480,5 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:42:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Set own game mode to Survival Mode]
 [29Mar2025 19:42:48.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2017.500000, 214.500000, 91.500000]
 [29Mar2025 19:45:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Cover Me with Diamonds]
+[29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 20:04:35.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]

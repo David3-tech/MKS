@@ -313,3 +313,7 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 04:08:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
 [29Mar2025 04:08:36.549] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
 [29Mar2025 04:08:39.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[29Mar2025 04:19:21.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Life turned out to be a comedy]
+[29Mar2025 04:22:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Corpse Fish
+[29Mar2025 04:22:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David drowned
+[29Mar2025 04:22:43.152] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

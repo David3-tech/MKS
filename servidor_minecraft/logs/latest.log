@@ -442,3 +442,31 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 19:12:21.183] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Mar2025 19:12:58.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Crops of the Wild]
 [29Mar2025 19:20:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Hoglin
+[29Mar2025 19:21:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David was slain by Hoglin
+[29Mar2025 19:21:21.269] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:21:31.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2016.500000, 217.500000, 108.500000]
+[29Mar2025 19:22:02.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David was kicked for floating too long!
+[29Mar2025 19:22:02.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Flying is not enabled on this server
+[29Mar2025 19:22:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
+[29Mar2025 19:22:13.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:51157] logged in with entity id 14723 at (2004.2431948573142, 90.6631050797209, 83.71033649938279)
+[29Mar2025 19:22:13.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
+[29Mar2025 19:22:13.763] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[29Mar2025 19:22:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David fell from a high place
+[29Mar2025 19:22:29.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David fell from a high place
+[29Mar2025 19:22:31.107] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:22:34.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2004.500000, 68.500000, 84.500000]
+[29Mar2025 19:27:21.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was shot by Wither Skeleton
+[29Mar2025 19:27:28.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David was shot by Wither Skeleton
+[29Mar2025 19:27:29.654] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 19:27:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2014.500000, 222.500000, 120.500000]
+[29Mar2025 19:27:57.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David was kicked for floating too long!
+[29Mar2025 19:27:57.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Flying is not enabled on this server
+[29Mar2025 19:27:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
+[29Mar2025 19:28:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 19:28:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[29Mar2025 19:28:21.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 19:28:21.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: das<--[HERE]
+[29Mar2025 19:28:32.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:57899] logged in with entity id 16379 at (2023.3383328576106, 87.70886859400909, 116.51446643113854)
+[29Mar2025 19:28:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
+[29Mar2025 19:28:32.310] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[29Mar2025 19:30:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Spooky Scary Skeleton]

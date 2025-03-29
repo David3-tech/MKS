@@ -322,3 +322,4 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 04:54:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asda<--[HERE]
 [29Mar2025 05:22:15.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Mar2025 05:22:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdas<--[HERE]
+[29Mar2025 05:40:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Bonfire Lit]

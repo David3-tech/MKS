@@ -3826,3 +3826,13 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 20:25:49.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 20:30:49.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 20:30:49.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:35:49.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:35:49.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:38:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]
+[29Mar2025 20:38:46.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]
+[29Mar2025 20:38:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David withered away whilst fighting Nightmare Stalker
+[29Mar2025 20:39:06.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David withered away
+[29Mar2025 20:39:08.737] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 20:40:49.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:40:49.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:40:51.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]

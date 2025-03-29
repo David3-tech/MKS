@@ -317,3 +317,4 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 04:22:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David is bleeding. David was slain by Corpse Fish
 [29Mar2025 04:22:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David drowned
 [29Mar2025 04:22:43.152] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Mar2025 04:36:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has reached the goal [Exorcism]

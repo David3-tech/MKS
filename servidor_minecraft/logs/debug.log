@@ -3836,3 +3836,25 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 20:40:49.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 20:40:49.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 20:40:51.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]
+[29Mar2025 20:45:49.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:45:49.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:46:04.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Disconnected
+[29Mar2025 20:46:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
+[29Mar2025 20:46:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Mar2025 20:46:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[29Mar2025 20:46:45.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Mar2025 20:46:45.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 20:46:45.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 20:46:45.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 20:46:46.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 20:46:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Mar2025 20:46:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 20:46:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 20:46:46.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 20:46:46.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 20:46:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 20:46:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Mar2025 20:46:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 20:46:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 20:46:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Mar2025 20:46:46.531] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

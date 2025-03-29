@@ -312,3 +312,4 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [29Mar2025 18:12:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
 [29Mar2025 18:12:28.125] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
 [29Mar2025 18:12:31.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[29Mar2025 18:28:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has reached the goal [Fighting Nightmares]

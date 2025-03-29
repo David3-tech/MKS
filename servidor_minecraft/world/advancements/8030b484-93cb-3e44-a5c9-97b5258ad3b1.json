@@ -1292,8 +1292,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-29 02:46:39 +0000",
+      "minecraft:hoglin": "2025-03-29 19:03:47 +0000",
       "minecraft:spider": "2025-03-29 03:33:20 +0000",
       "minecraft:creeper": "2025-03-29 04:51:53 +0000",
+      "minecraft:phantom": "2025-03-29 19:01:55 +0000",
+      "minecraft:wither_skeleton": "2025-03-29 19:01:54 +0000",
       "minecraft:husk": "2025-03-29 03:55:00 +0000",
       "minecraft:enderman": "2025-03-29 03:12:45 +0000",
       "minecraft:silverfish": "2025-03-29 03:15:33 +0000",
@@ -3119,6 +3122,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_shelf": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
@@ -3143,15 +3152,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-29 19:01:33 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_bench": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_step": {
     "criteria": {
       "has_slab": "2025-03-29 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-03-29 18:50:11 +0000"
     },
     "done": true
   },
@@ -3190,6 +3217,12 @@
       "minecraft:wooden_slabs": "2025-03-29 18:43:09 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-29 19:01:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -3759,6 +3759,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-03-30 14:33:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-30 14:25:29 +0000"

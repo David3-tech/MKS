@@ -320,3 +320,4 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 13:46:21.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
 [30Mar2025 13:49:34.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -0.18804881261416995,-10.61202295686212,0.16676375452894376
 [30Mar2025 14:02:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has reached the goal [Horror of the Depths]
+[30Mar2025 14:23:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Dark Forging]

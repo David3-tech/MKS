@@ -342,3 +342,6 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 17:18:50.502] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2155, y=71, z=3067} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [30Mar2025 17:18:50.503] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2155, y=71, z=3067}
 [30Mar2025 17:30:50.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 10.072740687735404,0.41999998688697815,-0.7213388597619996
+[30Mar2025 17:37:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]
+[30Mar2025 17:37:09.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 0.0,-11.141611616128841,0.0
+[30Mar2025 17:40:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2155.500000, 144.500000, 3862.500000]

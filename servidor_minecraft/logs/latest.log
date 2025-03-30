@@ -345,3 +345,6 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 17:37:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 1839.500000, 108.500000, 97.500000]
 [30Mar2025 17:37:09.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 0.0,-11.141611616128841,0.0
 [30Mar2025 17:40:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [David: Teleported David to 2155.500000, 144.500000, 3862.500000]
+[30Mar2025 17:46:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 17:46:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASD<--[HERE]
+[30Mar2025 18:51:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Burner of Souls]

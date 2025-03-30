@@ -3908,6 +3908,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cut_sandstone_post": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-30 17:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-03-30 17:10:42 +0000"
@@ -3926,9 +3932,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-30 17:16:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/guide_book": {
     "criteria": {
       "has_key_item_0": "2025-03-30 17:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-30 17:31:28 +0000"
     },
     "done": true
   },
@@ -3956,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-30 17:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-30 17:12:40 +0000"
@@ -3968,9 +3992,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-03-30 17:15:35 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/traders_manual": {
     "criteria": {
       "has_key_item_0": "2025-03-30 17:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-03-30 17:15:43 +0000"
     },
     "done": true
   },
@@ -3995,6 +4031,12 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2025-03-30 17:11:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-30 17:18:24 +0000"
     },
     "done": true
   },

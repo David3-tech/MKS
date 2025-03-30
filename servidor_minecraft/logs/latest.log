@@ -350,3 +350,6 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 18:51:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Burner of Souls]
 [30Mar2025 18:58:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [The Wind Darkening]
 [30Mar2025 18:59:24.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -4.322166759189713,0.0,9.380651754853716
+[30Mar2025 19:22:23.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -8.240109951793784,0.0,9.035490174234837
+[30Mar2025 19:23:51.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 23.75009871652128,0.0,4.7706324754799425
+[30Mar2025 19:28:23.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! 0.3585569165393281,0.0,-11.874850895240343

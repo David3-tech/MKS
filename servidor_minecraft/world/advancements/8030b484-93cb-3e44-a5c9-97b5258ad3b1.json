@@ -933,6 +933,7 @@
       "cooked_porkchop": "2025-03-29 03:35:40 +0000",
       "cooked_mutton": "2025-03-29 03:03:18 +0000",
       "cooked_beef": "2025-03-29 05:44:28 +0000",
+      "baked_potato": "2025-03-30 19:26:29 +0000",
       "pumpkin_pie": "2025-03-29 20:26:54 +0000",
       "bread": "2025-03-29 04:42:56 +0000",
       "cooked_chicken": "2025-03-29 02:39:39 +0000"
@@ -1303,8 +1304,10 @@
       "minecraft:phantom": "2025-03-29 19:01:55 +0000",
       "minecraft:wither_skeleton": "2025-03-29 19:01:54 +0000",
       "minecraft:husk": "2025-03-29 03:55:00 +0000",
+      "minecraft:cave_spider": "2025-03-30 19:29:43 +0000",
       "minecraft:enderman": "2025-03-29 03:12:45 +0000",
       "minecraft:silverfish": "2025-03-29 03:15:33 +0000",
+      "minecraft:stray": "2025-03-30 19:39:06 +0000",
       "minecraft:zombie": "2025-03-29 02:56:20 +0000",
       "minecraft:zombie_villager": "2025-03-30 16:35:57 +0000"
     },
@@ -4319,6 +4322,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-03-30 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/lime_table_lamp": {
+    "criteria": {
+      "has_carpet": "2025-03-30 19:14:11 +0000"
     },
     "done": true
   },

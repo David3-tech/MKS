@@ -936,6 +936,7 @@
       "baked_potato": "2025-03-30 19:26:29 +0000",
       "pumpkin_pie": "2025-03-29 20:26:54 +0000",
       "bread": "2025-03-29 04:42:56 +0000",
+      "golden_apple": "2025-03-30 19:59:22 +0000",
       "cooked_chicken": "2025-03-29 02:39:39 +0000"
     },
     "done": false
@@ -3875,6 +3876,12 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_post": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-30 16:54:49 +0000"
@@ -3983,6 +3990,12 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_step": {
+    "criteria": {
+      "has_slab": "2025-03-30 20:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-03-30 17:14:32 +0000"
@@ -4001,6 +4014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/guide_book": {
     "criteria": {
       "has_key_item_0": "2025-03-30 17:12:40 +0000"
@@ -4010,6 +4029,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-30 18:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
     },
     "done": true
   },
@@ -4031,6 +4056,18 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_chimney_from_block": {
+    "criteria": {
+      "has_key_item_0": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-30 17:14:32 +0000"
@@ -4043,9 +4080,21 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-03-30 20:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-03-30 17:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-30 19:54:57 +0000"
     },
     "done": true
   },
@@ -4103,6 +4152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-03-30 18:17:30 +0000"
@@ -4139,9 +4194,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-30 20:03:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 18:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
     },
     "done": true
   },
@@ -4217,6 +4284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 18:14:43 +0000"
@@ -4253,9 +4326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-30 19:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-30 16:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
     },
     "done": true
   },
@@ -4274,6 +4359,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-30 16:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-03-30 20:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
     },
     "done": true
   },
@@ -4301,6 +4398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-30 19:53:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 18:14:43 +0000"
@@ -4322,6 +4425,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-03-30 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-30 19:54:37 +0000"
     },
     "done": true
   },

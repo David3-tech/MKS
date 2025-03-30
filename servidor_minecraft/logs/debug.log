@@ -7565,3 +7565,9 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 18:51:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Burner of Souls]
 [30Mar2025 18:55:13.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 18:55:13.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 18:58:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [The Wind Darkening]
+[30Mar2025 18:59:24.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David moved too quickly! -4.322166759189713,0.0,9.380651754853716
+[30Mar2025 19:00:13.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 19:00:13.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 19:05:13.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 19:05:13.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

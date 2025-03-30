@@ -4154,6 +4154,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-03-30 19:04:24 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/red_candlelit_lantern": {
     "criteria": {
       "has_candle": "2025-03-30 17:10:01 +0000"
@@ -4307,6 +4313,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-30 16:45:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-30 18:58:22 +0000"
     },
     "done": true
   },

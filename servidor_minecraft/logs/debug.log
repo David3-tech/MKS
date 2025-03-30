@@ -3171,3 +3171,7 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 14:00:11.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 14:00:11.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Mar2025 14:02:16.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has reached the goal [Horror of the Depths]
+[30Mar2025 14:05:11.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 14:05:11.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 14:10:11.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 14:10:11.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

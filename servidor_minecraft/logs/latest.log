@@ -324,3 +324,9 @@ com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
 [30Mar2025 14:25:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Disgusting Lootbox]
 [30Mar2025 16:25:02.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David lost connection: Timed out
 [30Mar2025 16:25:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David left the game
+[30Mar2025 16:25:22.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 16:25:22.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[30Mar2025 16:25:41.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David[/127.196.28.254:39285] logged in with entity id 27400 at (1878.238169533294, 72.0, 374.37579222072077)
+[30Mar2025 16:25:41.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David joined the game
+[30Mar2025 16:25:41.221] [Server thread/INFO] [Jade/]: Syncing config to David (8030b484-93cb-3e44-a5c9-97b5258ad3b1)
+[30Mar2025 16:26:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David has made the advancement [Best Friends Forever]
